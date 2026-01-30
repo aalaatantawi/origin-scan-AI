@@ -1,0 +1,7 @@
+{
+  "name": "OriginScan AI",
+  "description": "Scan QR codes and Barcodes to instantly discover a product's country of origin and detailed information using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
